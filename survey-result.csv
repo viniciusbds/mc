@@ -1,0 +1,32 @@
+data_hora,periodo,calculo_retirado,calculo,linear,fmcc,probabilidade,logica,mat_util,justificativa,tecnologias,estatistica
+07/04/2021 11:15:01,6,Não,7,7,5,10,10,Sim,,"Desenvolvimento Web, Sistemas Embarcados",10
+07/04/2021 11:16:55,6,Não,5,5,9,8,10,Não,,Análise de Dados,8
+07/04/2021 11:21:10,7,Não,7,7,10,8,10,Sim,,"Sistemas Distribuídos, Desenvolvimento de Sistemas, Cloud Computing",7
+07/04/2021 11:27:53,6,Não,5,5,8,7,10,Sim,"A própria lógica computacional eu vejo como um ferramenta matemática, e ela é altamente necessária na computação. Mas um exemplo concreto de uso matemática, posso dizer as técnicas/métricas estatísticas utilizadas em machine learning.","Análise de Dados, Desenvolvimento de Sistemas",8
+07/04/2021 11:46:07,7,Não,3,3,7,6,5,Sim,"Na maior parte, estatística.",Desenvolvimento Web,8
+07/04/2021 12:11:21,6,Não,8,6,10,10,10,Sim,Cálculo de informações para análise de dados,"Análise de Dados, Sistemas Distribuídos, Cloud Computing",10
+07/04/2021 12:23:06,6,Não,7,7,5,10,10,Sim,,"Desenvolvimento Web, Sistemas Embarcados",10
+07/04/2021 12:47:37,8,Sim,1,3,3,4,5,Não,,"Desenvolvimento de Sistemas, Cloud Computing",3
+07/04/2021 13:11:51,8,Não,3,7,1,8,1,Sim,O conhecimento de Álgebra Linear aplicado em Machine Learning.,Desenvolvimento Web,7
+07/04/2021 14:27:49,6,Não,2,4,5,8,9,Sim,,Desenvolvimento Web,8
+07/04/2021 16:24:44,6,Sim,2,3,6,5,7,Sim,"tipo, acho mto pesado dizer que NENHUM conhecimento foi usado/útil. Por exemplo, já utilizei conhecimentos sobre polinômios.",Nenhum,5
+07/04/2021 17:18:45,8,Não,6,5,8,10,10,Sim,Conhecimento de Estatística (estatística descritiva),"Devops, Sistemas Distribuídos, Cloud Computing",7
+07/04/2021 19:39:06,8,Não,4,3,9,9,10,Sim,"Probabilidade, Estatística, Cálculo","Análise de Dados, Desenvolvimento Web, Desenvolvimento de Sistemas",9
+07/04/2021 19:47:41,6,Não,7,1,7,7,6,Sim,,"Desenvolvimento Web, Devops, Desenvolvimento de Sistemas",6
+07/04/2021 19:54:52,6,Sim,1,1,3,1,5,Não,,"Desenvolvimento Web, Desenvolvimento de Sistemas",1
+08/04/2021 23:57:35,6,Não,2,2,10,2,10,Sim,,"Sistemas Distribuídos, Desenvolvimento de Sistemas",1
+09/04/2021 11:27:15,6,Não,1,5,7,7,9,Sim,,"Análise de Dados, Desenvolvimento Web, Devops, Sistemas Distribuídos, Inteligencia Artificial, Desenvolvimento de Sistemas",7
+09/04/2021 22:51:22,6,Não,5,5,7,6,7,Sim,Álgebra Linear,Nenhum,6
+10/04/2021 19:45:28,7,Não,3,3,5,5,5,Não,,Nenhum,1
+12/04/2021 15:05:44,8,Não,1,1,1,8,8,Sim,Probabilidade e estatística ,"Análise de Dados, Desenvolvimento Web, Devops, Desenvolvimento de Sistemas",8
+12/04/2021 19:58:21,7,Sim,2,3,7,5,7,Não,,Desenvolvimento de Sistemas,3
+12/04/2021 20:04:27,7,Não,4,5,4,3,7,Sim,A questão de limites e derivadas foram bastantes uteis em cadeiras de ciência de dados. Álgebra linear também foi bem útil o meu projeto de iniciação cientifica.,"Análise de Dados, Desenvolvimento Web",3
+12/04/2021 20:13:01,5,Sim,10,10,10,10,10,Não,,Desenvolvimento Web,10
+12/04/2021 21:12:18,6,Não,4,6,10,10,10,Sim,,,10
+12/04/2021 21:27:27,6,Sim,1,1,1,1,9,Não,,Análise de Dados,1
+13/04/2021 01:06:44,7,Não,8,10,10,9,9,Sim,,"Análise de Dados, Desenvolvimento Web, Inteligencia Artificial",10
+13/04/2021 10:48:10,6,Sim,1,2,7,4,4,Não,,Análise de Dados,4
+13/04/2021 16:00:12,10,Não,1,1,1,1,1,Sim,Matemática Básica.,"Devops, Sistemas Distribuídos, Cloud Computing, Segurança",1
+13/04/2021 22:09:50,8,Não,3,3,7,5,7,Não,,,5
+15/04/2021 11:16:46,6,Sim,1,5,5,3,9,Sim,Conhecimentos básicos que ensinam no Ensino Médio e alguns conceitos novos ensinados em FMCC. Cálculo nunca foi útil em programação,Nenhum,1
+15/04/2021 19:55:40,10,Não,7,8,8,6,9,Sim,,"Análise de Dados, Desenvolvimento de Sistemas",6
